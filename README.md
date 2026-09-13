@@ -311,3 +311,7 @@ export default Header
 	
 Possibili Fonti Video
 https://www.youtube.com/watch?v=BCg4U1FzODs
+
+## Risorsa complementare in italiano
+
+Per proseguire dagli appunti sui fondamenti del linguaggio, è disponibile [The Concise TypeScript Book in italiano](https://gibbok.github.io/typescript-book/it-it/), una guida gratuita e open source.
